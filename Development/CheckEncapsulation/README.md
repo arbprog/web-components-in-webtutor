@@ -218,7 +218,7 @@ customElements.define('h1-sample', H1Sample)
 
 1\) [CustomStyleInterface](https://github.com/webcomponents/shadycss#about-customstyleinterface)
 
-Этот вариант со страницы полифилла [ShadyCSS](https://www.gitbook.com/book/maksimyurkov/progressive-webtutor/edit#)
+Этот вариант со страницы полифилла [ShadyCSS](https://github.com/webcomponents/shadycss)
 
 * добавляем тегу &lt;style&gt;, id или класс
 * после полифиллов webcomponents-lite.js, добавляем custom-style-interface.min.js \(добавляет CustomStyleInterface в ShadyCSS\)
@@ -239,7 +239,7 @@ ShadyCSS.CustomStyleInterface.addCustomStyle(document.querySelector('.document-s
 
 2\) [&lt;custom-style&gt;](https://github.com/webcomponents/shadycss#about-customstyleinterface)
 
-Этот вариант тоже со страницы полифилла [ShadyCSS](https://www.gitbook.com/book/maksimyurkov/progressive-webtutor/edit#)
+Этот вариант тоже со страницы полифилла [ShadyCSS](https://github.com/webcomponents/shadycss)
 
 * &lt;style&gt; переносим в &lt;custom-style&gt;
 * после полифиллов webcomponents-lite.js, добавляем custom-style-interface.min.js \(добавляет CustomStyleInterface в ShadyCSS
