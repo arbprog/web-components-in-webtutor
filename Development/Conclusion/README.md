@@ -16,5 +16,4 @@
 
 Just Do It! :smile:
 
-{% youtube src="https://www.youtube.com/watch?v=ZXsQAXx_ao0" %}{% endyoutube %}
-
+{{ 'https://www.youtube.com/watch?v=ZXsQAXx_ao0' | noembed }}

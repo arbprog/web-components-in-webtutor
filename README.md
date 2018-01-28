@@ -28,11 +28,11 @@
 
 * [https://www.gitbook.com/book/maksimyurkov/web-components-in-webtutor](https://www.gitbook.com/book/maksimyurkov/web-components-in-webtutor)
 
-**Содействие, предложения и исп[](/CONTRIBUTORS.md)равления делаются через GitHub. \(**[подробнее](/CONTRIBUTING.md)**\)**
+**Содействие, предложения и исправления делаются через GitHub.**
 
-* [https://github.com/maksimyurkov/web-components-in-webtutor](https://github.com/maksimyurkov/web-components-in-webtutor)
+* [https://github.com/maksimyurkov/web-components-in-webtutor/blob/master/CONTRIBUTING.md](https://github.com/maksimyurkov/web-components-in-webtutor/blob/master/CONTRIBUTING.md)
 
 ***
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a><br />Лицензируется в соответствии с <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a><br />Лицензируется в соответствии с <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a>
 
