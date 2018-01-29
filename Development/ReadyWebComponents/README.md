@@ -4,13 +4,13 @@
 
 Вот некоторые места, где вы можете найти веб-компоненты:
 
-[webcomponents.org](https://www.gitbook.com/book/maksimyurkov/progressive-webtutor/edit#)
+[webcomponents.org](https://www.webcomponents.org/)
 
-[Vaadin](https://www.gitbook.com/book/maksimyurkov/progressive-webtutor/edit#)
+[Vaadin](/vaadin.com)
 
-[expand.js](https://www.gitbook.com/book/maksimyurkov/progressive-webtutor/edit#)
+[expand.js](/expandjs.com)
 
-[Bosonic](https://www.gitbook.com/book/maksimyurkov/progressive-webtutor/edit#)
+[Bosonic](/bosonic.github.io)
 
 На самом деле разнообразных веб-компонент на порядок больше, просто они находятся в закрытых репозиториях. Многие компании уже несколько лет их используют.
 

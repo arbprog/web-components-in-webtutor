@@ -44,7 +44,16 @@
 
 | Ссылка |  |
 | :--- | :--- |
-| [Google Chrome Developers](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw) |  |
+| [CSS Grid Layout](https://css-tricks.com/snippets/css/complete-guide-grid/) |  |
+| [CSS Grid Layout \(Курс\)](https://gridbyexample.com/) |  |
+| [CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) |  |
+| [CSS Triggers](https://csstriggers.com/) |  |
+
+## Аудит
+
+| Ссылка |  |
+| :--- | :--- |
+| [LightHouse](https://github.com/GoogleChrome/lighthouse) |  |
 
 ## Альтернатива веб-компонент
 
